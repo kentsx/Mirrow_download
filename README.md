@@ -1,3 +1,5 @@
 # Mirrow_download
 
-### Used for storage of some software or apps that is not easy to be downloaded inside GFW.
+Used for storage of some small files so that no data limits of these files.
+
+ALL FILES UPLOADED IN THIS REPO, HERE BY, I KNOW IT CAN BE PUBLICLY REACHED. THUS I WOULD COMPLY THE CODE AND THE DOWNLOADERS AS WELL. PLEASE DO NOT REMOVE THE NAME OF THE CONTRIBUT(S) IN ANY MEANS.
