@@ -1,5 +1,17 @@
-# Mirrow_download
+# Blog Attachment
 
-Used for storage of some small files so that no data limits of these files.
+this is a blog attachment repo.
 
-ALL FILES UPLOADED IN THIS REPO, HERE BY, I KNOW IT CAN BE PUBLICLY REACHED. THUS I WOULD COMPLY THE CODE AND THE DOWNLOADERS AS WELL. PLEASE DO NOT REMOVE THE NAME OF THE CONTRIBUT(S) IN ANY MEANS.
+## HOW TO USE THIS REPO?
+
+- **FIRST**, create the folder (or select the existed folder), and move the file you want to upload into.
+
+- **SECOND**, click the mouse right and open the git bash here
+
+- **THIRD**, use the command below to finish the upload:
+
+```
+git add .  ## select all the file in the repo folders;
+git commit -m '****' ## wahtever the comments in the quotation marks;
+git push   ## to finish the uploading.
+```
