@@ -1,50 +1,5 @@
-WHEN YOU ARE READING THIS FILE, MEANING THAT YOU'VE ENTERED THE STORAGE REPO OF KENNY4EVER. THIS REPO IS A PUBLIC REPO AND IS NOT AND WILL EVER NOT STORE FILE OR DOCUMENTS AGAINST LOCAL LAWS.
-
-FILE TREE AS BELOW
-
-│  CNAME
-│  README.md
-│  
-├─html
-│      custom.styl
-│      pure_css_photowall.html
-│      
-├─pdf
-│  ├─2018-03-13-CFA-L2-Fixed-Income-Mindmap
-│  │      Fixed Income Mind Map CFA L2.pdf
-│  │      Fixed_Income_L2.emmx
-│  │      
-│  └─2018-04-09-银监会2018年一季度地方政府融资平台名单
-│          2108年一季度银监会地方政府融资平台名单.xls
-│          
-└─pic
-    │  Carreer Fair.jpg
-    │  
-    ├─2018-03-13-CFA-L2-Fixed-Income-Mindmap
-    │      fix_income_snap.png
-    │      
-    ├─2018-08-09-Paypal设置原始货币记账
-    │      paypal00.png
-    │      paypal01.png
-    │      paypal02.png
-    │      paypal03.png
-    │      paypal04.png
-    │      paypal05.png
-    │      paypal06.png
-    │      
-    ├─2018-10-18-你是我孤独世界的唯一亮光
-    │      kingkongtrex.jpg
-    │      
-    ├─2019-01-25-搭建opencart的过程
-    │      pic01.png
-    │      pic02.png
-    │      pic03.png
-    │      pic04.png
-    │      
-    ├─2019-01-28-Uncharted-4一周目通关了
-    │      psnprofile_jan28_2019.png
-    │      uncharted4_jan28_2019.png
-    │      
-    └─2019-01-31-Github同一账户多个page
-            github01.png
-            github02.png
+WHEN YOU ARE READING THIS FILE, MEANING THAT YOU'VE ENTERED THE STORAGE REPO OF KMORE.
+PLEASE TAKE SOME ATTENTIONS:
+- THIS REPO IS PUBLICLY DUE TO THE NEEDS OF KMORE.ML
+- YOU CAN DOWNLOAD AND USE THE CONTENTS FROM THE REPO.
+- PLEASE DO INDICATE THE SOURCE OF THE CONTENTS IF YOU USE IN YOUR OWN WAY AND INFORM ME BY WRITING IN THE ISSUE OF THIS REPO.
